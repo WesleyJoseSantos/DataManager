@@ -1,0 +1,43 @@
+C:\Users\binar\Desktop\Projetos\Visual Studio\Druida Easy Scada\DataManager\obj\Debug\DataManager.vbprojAssemblyReference.cache
+C:\Users\binar\Desktop\Projetos\Visual Studio\Druida Easy Scada\DataManager\obj\Debug\DataManager.Resources.resources
+C:\Users\binar\Desktop\Projetos\Visual Studio\Druida Easy Scada\DataManager\obj\Debug\DataManager.vbproj.GenerateResource.cache
+C:\Users\binar\Desktop\Projetos\Visual Studio\Druida Easy Scada\DataManager\obj\Debug\DataManager.vbproj.CoreCompileInputs.cache
+C:\Users\binar\Desktop\Projetos\Visual Studio\Druida Easy Scada\DataManager\bin\Debug\DataManager.dll
+C:\Users\binar\Desktop\Projetos\Visual Studio\Druida Easy Scada\DataManager\bin\Debug\DataManager.pdb
+C:\Users\binar\Desktop\Projetos\Visual Studio\Druida Easy Scada\DataManager\bin\Debug\DataManager.xml
+C:\Users\binar\Desktop\Projetos\Visual Studio\Druida Easy Scada\DataManager\obj\Debug\DataManager.dll
+C:\Users\binar\Desktop\Projetos\Visual Studio\Druida Easy Scada\DataManager\obj\Debug\DataManager.xml
+C:\Users\binar\Desktop\Projetos\Visual Studio\Druida Easy Scada\DataManager\obj\Debug\DataManager.pdb
+C:\Users\BINAR\OneDrive\Área de Trabalho\Visual Studio\Druida Easy Scada\DataManager\bin\Debug\DataManager.dll
+C:\Users\BINAR\OneDrive\Área de Trabalho\Visual Studio\Druida Easy Scada\DataManager\bin\Debug\DataManager.pdb
+C:\Users\BINAR\OneDrive\Área de Trabalho\Visual Studio\Druida Easy Scada\DataManager\bin\Debug\DataManager.xml
+C:\Users\BINAR\OneDrive\Área de Trabalho\Visual Studio\Druida Easy Scada\DataManager\obj\Debug\DataManager.Resources.resources
+C:\Users\BINAR\OneDrive\Área de Trabalho\Visual Studio\Druida Easy Scada\DataManager\obj\Debug\DataManager.vbproj.GenerateResource.cache
+C:\Users\BINAR\OneDrive\Área de Trabalho\Visual Studio\Druida Easy Scada\DataManager\obj\Debug\DataManager.vbproj.CoreCompileInputs.cache
+C:\Users\BINAR\OneDrive\Área de Trabalho\Visual Studio\Druida Easy Scada\DataManager\obj\Debug\DataManager.dll
+C:\Users\BINAR\OneDrive\Área de Trabalho\Visual Studio\Druida Easy Scada\DataManager\obj\Debug\DataManager.xml
+C:\Users\BINAR\OneDrive\Área de Trabalho\Visual Studio\Druida Easy Scada\DataManager\obj\Debug\DataManager.pdb
+C:\Users\BINAR\Documents\BINRY_QUANTUM\Engenharia\Projetos\Softwares\Recursos\DataManager\bin\Debug\DataManager.dll
+C:\Users\BINAR\Documents\BINRY_QUANTUM\Engenharia\Projetos\Softwares\Recursos\DataManager\bin\Debug\DataManager.pdb
+C:\Users\BINAR\Documents\BINRY_QUANTUM\Engenharia\Projetos\Softwares\Recursos\DataManager\bin\Debug\DataManager.xml
+C:\Users\BINAR\Documents\BINRY_QUANTUM\Engenharia\Projetos\Softwares\Recursos\DataManager\obj\Debug\DataManager.vbprojAssemblyReference.cache
+C:\Users\BINAR\Documents\BINRY_QUANTUM\Engenharia\Projetos\Softwares\Recursos\DataManager\obj\Debug\DataManager.Resources.resources
+C:\Users\BINAR\Documents\BINRY_QUANTUM\Engenharia\Projetos\Softwares\Recursos\DataManager\obj\Debug\DataManager.vbproj.GenerateResource.cache
+C:\Users\BINAR\Documents\BINRY_QUANTUM\Engenharia\Projetos\Softwares\Recursos\DataManager\obj\Debug\DataManager.vbproj.CoreCompileInputs.cache
+C:\Users\BINAR\Documents\BINRY_QUANTUM\Engenharia\Projetos\Softwares\Recursos\DataManager\obj\Debug\DataManager.dll
+C:\Users\BINAR\Documents\BINRY_QUANTUM\Engenharia\Projetos\Softwares\Recursos\DataManager\obj\Debug\DataManager.xml
+C:\Users\BINAR\Documents\BINRY_QUANTUM\Engenharia\Projetos\Softwares\Recursos\DataManager\obj\Debug\DataManager.pdb
+C:\Users\BINAR\Documents\BINARY_QUANTUM\Engenharia\Projetos\Softwares\Recursos\DataManager\bin\Debug\DataManager.dll
+C:\Users\BINAR\Documents\BINARY_QUANTUM\Engenharia\Projetos\Softwares\Recursos\DataManager\bin\Debug\DataManager.pdb
+C:\Users\BINAR\Documents\BINARY_QUANTUM\Engenharia\Projetos\Softwares\Recursos\DataManager\bin\Debug\DataManager.xml
+C:\Users\BINAR\Documents\BINARY_QUANTUM\Engenharia\Projetos\Softwares\Recursos\DataManager\obj\Debug\DataManager.Resources.resources
+C:\Users\BINAR\Documents\BINARY_QUANTUM\Engenharia\Projetos\Softwares\Recursos\DataManager\obj\Debug\DataManager.vbproj.GenerateResource.cache
+C:\Users\BINAR\Documents\BINARY_QUANTUM\Engenharia\Projetos\Softwares\Recursos\DataManager\obj\Debug\DataManager.vbproj.CoreCompileInputs.cache
+C:\Users\BINAR\Documents\BINARY_QUANTUM\Engenharia\Projetos\Softwares\Recursos\DataManager\obj\Debug\DataManager.dll
+C:\Users\BINAR\Documents\BINARY_QUANTUM\Engenharia\Projetos\Softwares\Recursos\DataManager\obj\Debug\DataManager.xml
+C:\Users\BINAR\Documents\BINARY_QUANTUM\Engenharia\Projetos\Softwares\Recursos\DataManager\obj\Debug\DataManager.pdb
+C:\Users\BINAR\Documents\BINARY_QUANTUM\Engenharia\Projetos\Softwares\Recursos\DataManager\obj\Debug\DataManager.vbprojAssemblyReference.cache
+C:\Users\BINAR\Documents\BINARY_QUANTUM\Engenharia\Projetos\Softwares\Recursos\DataManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BINAR\Documents\BINARY_QUANTUM\Engenharia\Projetos\Softwares\Recursos\DataManager\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\BINAR\Documents\BINARY_QUANTUM\Engenharia\Projetos\Softwares\Recursos\DataManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BINAR\Documents\BINARY_QUANTUM\Engenharia\Projetos\Softwares\Recursos\DataManager\obj\Debug\DataManager.vbproj.CopyComplete

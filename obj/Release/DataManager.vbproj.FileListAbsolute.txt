@@ -1,0 +1,10 @@
+C:\Users\BINAR\OneDrive\Área de Trabalho\Visual Studio\Druida Easy Scada\DataManager\bin\Release\DataManager.dll
+C:\Users\BINAR\OneDrive\Área de Trabalho\Visual Studio\Druida Easy Scada\DataManager\bin\Release\DataManager.pdb
+C:\Users\BINAR\OneDrive\Área de Trabalho\Visual Studio\Druida Easy Scada\DataManager\bin\Release\DataManager.xml
+C:\Users\BINAR\OneDrive\Área de Trabalho\Visual Studio\Druida Easy Scada\DataManager\obj\Release\DataManager.vbprojAssemblyReference.cache
+C:\Users\BINAR\OneDrive\Área de Trabalho\Visual Studio\Druida Easy Scada\DataManager\obj\Release\DataManager.Resources.resources
+C:\Users\BINAR\OneDrive\Área de Trabalho\Visual Studio\Druida Easy Scada\DataManager\obj\Release\DataManager.vbproj.GenerateResource.cache
+C:\Users\BINAR\OneDrive\Área de Trabalho\Visual Studio\Druida Easy Scada\DataManager\obj\Release\DataManager.vbproj.CoreCompileInputs.cache
+C:\Users\BINAR\OneDrive\Área de Trabalho\Visual Studio\Druida Easy Scada\DataManager\obj\Release\DataManager.dll
+C:\Users\BINAR\OneDrive\Área de Trabalho\Visual Studio\Druida Easy Scada\DataManager\obj\Release\DataManager.xml
+C:\Users\BINAR\OneDrive\Área de Trabalho\Visual Studio\Druida Easy Scada\DataManager\obj\Release\DataManager.pdb
